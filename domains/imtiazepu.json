@@ -1,8 +1,10 @@
 {
-    "owner": {
-        "username": "imtiazepu"
-    },
-    "record": {
-        "RECORDTYPE": "imtiazepu.com"
-    }
+  "description": "Parsonal website for Imtiaz Epu",
+    "username": "imtiazepu",
+    "email": "info@imtiazepu.com"
+  },
+  "record": {
+    "URL": "https://imtiazepu.com"
+  },
+  "proxied": true
 }
